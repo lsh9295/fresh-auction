@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "709996880820",
+    "project_id": "freshauctionapp-6fbdc",
+    "storage_bucket": "freshauctionapp-6fbdc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709996880820:android:a790e10b41ca1a672308e1",
+        "android_client_info": {
+          "package_name": "com.example.freshauctionapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709996880820-1b944bnvj4h5jsnlh6ic0lnd2oo024j3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHxWH7AhijTObm1klPGR9z8J5KQMMWP0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709996880820-1b944bnvj4h5jsnlh6ic0lnd2oo024j3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
